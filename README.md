@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shadowxzk
 - 👀 I’m interested in roblox exploiting
 - 🌱 I’m currently learning LUA
-- 📫 How to reach me (Not way to contact me for now)
+- 📫 How to reach me (Not a way to contact me for now)
